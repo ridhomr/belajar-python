@@ -1,0 +1,9 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "editor.fontSize": 15,
+    "window.zoomLevel":-0.8,
+    "terminal.integrated.fontSize": 12,
+    "editor.semanticHighlighting.enabled": false,
+    "editor.fontFamily": "YOUR FONT, Menlo, Monaco, 'Courier New', monospace",
+    "python.linting.enabled": false,
+}
